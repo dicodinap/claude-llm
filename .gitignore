@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+claude-env/
+.vscode/
+*.log
+dist/
+build/
+*.egg-info/
